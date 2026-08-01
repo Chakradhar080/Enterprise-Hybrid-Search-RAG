@@ -1,0 +1,15 @@
+pymupdf==1.28.0
+langchain==0.3.*
+langchain-core==0.3.*
+langchain-community==0.3.*
+langchain-text-splitters==0.3.*
+langchain-ollama==0.3.*
+ollama==0.6.*
+faiss-cpu==1.12.*
+numpy==2.*
+python-dotenv==1.1.*
+rank-bm25==0.2.2
+fastapi==0.116.*
+uvicorn==0.35.*
+streamlit==1.49.*
+pydantic==2.11.*
